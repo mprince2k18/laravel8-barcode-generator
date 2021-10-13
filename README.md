@@ -1,5 +1,5 @@
 # laravel8-barcode-generator
-![laravel8-barcode-generator](https://user-images.githubusercontent.com/43857625/137080718-6275671e-a248-4fa5-b1e5-84ecbf98835d.png)
+![laravel8-barcode-generator](https://user-images.githubusercontent.com/43857625/137080718-6275671e-a248-4fa5-b1e5-84ecbf98835d.png){ style="display: block; margin: 0 auto" }
 
 <p align="center">
 This package generate different types of barcode using Laravel as well as using core PHP.
